@@ -6,3 +6,25 @@ Green: #00B172
 White: #FFF
 
 */
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  background: white;
+}
+
+.logo {
+  float: left;
+  max-height: 50px;
+}
+
+.nav-titles > li {
+  display: inline-block;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  font-weight: 50;
+  list-style: none;
+  float: right;
+  padding-right: 40px;
+}
+
+
